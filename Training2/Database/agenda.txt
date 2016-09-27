@@ -1,0 +1,12 @@
+2. ORM
+
+01:05:09 Wygenerować listę wartości /values z inserta/, aby INSERT był kompletny || => PostgreSqlInsert.php
+$surroundings
+
+01:11:25 odpalanie inserta na bazie danych || => runDbOpertions.php
+1. PostgreSqlInsert.php - dopisać return $insert
+2. powołujemy sobie PostgreSqlDbHandle
+
+
+3. CRUD
+00:11:30 CrudGenerator.php w foreach $field->GetLabel na zasadzie GetFieldName z DbField.php

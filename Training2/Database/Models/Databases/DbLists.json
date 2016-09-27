@@ -1,0 +1,66 @@
+{
+
+  "dbName" :
+  {
+    "db_toci" : {
+      "users" : {
+        "id" : "hidden",
+        "creationdate" : "hidden",
+        "name" : "",
+        "login" : "",
+        "password" : "protected"
+      },
+
+      "actions" : {
+        "act_id" : "hidden",
+        "act_CrDate" : "hidden",
+        "act_rodzaj" : "",
+        "act_opis" : "",
+        "act_uwagi" : "protected",
+        "act_lastUpdate" : "protected",
+        "act_zGrzywki" : "protected"
+      },
+
+      "zadania" : {
+        "zad_id" : "hidden",
+        "zad_CreationDate" : "hidden",
+        "zad_rodzaj" : "",
+        "zad_opis" : "",
+        "zad_uwagi" : "protected"
+      }
+
+    },
+
+
+    "my_views" : {
+      "UnActiveUsers" : {
+        "id" : "hidden",
+        "creationdate" : "hidden",
+        "name" : "",
+        "login" : "",
+        "poassword" : "protected"
+      },
+
+      "ActiveUsers" : {
+        "a_id" : "hidden",
+        "a_creationdate" : "hidden",
+        "a_name" : "",
+        "a_login" : "",
+        "a_password" : "protected"
+      }
+
+
+    }
+
+
+
+  }
+
+
+
+
+
+}
+
+
+
